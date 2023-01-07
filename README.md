@@ -28,7 +28,7 @@ The entire project follows the below folder structure:
 
     .
     ├── send_email.py    # Main Python script
-    ├── conf.py                     # Outlook SMTP Configuration File
+    ├── conf.py          # Outlook SMTP Configuration File
     └── README.md
 
 
